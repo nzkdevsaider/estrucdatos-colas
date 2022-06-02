@@ -81,7 +81,7 @@ console.log(
 console.log("================\n\n");
 console.log("\n===== CONCLUSIONES FINALES =====\n");
 console.log(
-  "Este programa fue planteado según la teoría proveída por la profesora Gabriela Caballero de Hislop en NodeJS.\n\nEl algoritmo del programa sigue tal cual el pie de la letra de la teoría, solo que con algunas correciones en el ordenamiento de valores. El código mostrado en este ejemplo muestra la manipulación de un arreglo en vivo desde su creación y subdesbordamiento utilizando todos los métodos planteados.\n\nLa teoría de las colas es sin duda un paradigma muy interesante de explorar en la manipulación de arreglos ya que de una forma bien planteada se pueden\nexplorar conceptos para entender más de cerca los arreglos.\n\nEl código fuente de este programa está disponible para todos.\n"
+  "Este programa fue planteado según la teoría proveída por la profesora Gabriela Caballero de Hislop en NodeJS.\n\nEl algoritmo del programa sigue tal cual el pie de la letra de la teoría, solo que con algunas correcciones en el ordenamiento de valores. El código mostrado en este ejemplo muestra la manipulación de un arreglo en vivo desde su creación y subdesbordamiento utilizando todos los métodos planteados.\n\nLa teoría de las colas es sin duda un paradigma muy interesante de explorar en la manipulación de arreglos ya que de una forma bien planteada se pueden\nexplorar conceptos para entender más de cerca los arreglos.\n\nEl código fuente de este programa está disponible para todos.\n"
 );
 console.log("=================================");
 console.log("Ahora sí vamos a provocar el subdesbordamiento...\n\n");
